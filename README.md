@@ -1,4 +1,4 @@
-# Pizza_sales_Analysis_Using_Excel
+# Pizza_sales_Analysis_Using_SQL & EXCEL
 End-to- End Excel project 
 :) :) 
                                                                   **PROJECT WORK DETAIL**
