@@ -1,5 +1,5 @@
 # Pizza_sales_Analysis_Using_SQL & EXCEL
-End-to- End Excel project 
+End-to- End project 
 :) :) 
                                                                   **PROJECT WORK DETAIL**
 Analyzed & Visualized the Pizza Sales Data of a different companies, also regulated KPIs and Trends asked by clients using Excel and SQL.
